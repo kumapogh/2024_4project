@@ -1,0 +1,117 @@
+import random
+import time
+def file(num):
+    data = [random.randint(1, 1000) for _ in range(10**num)]
+    return data
+
+# 単純選択ソートについて
+def simplese(a):
+    n = len(a)
+    looktime = 0
+    swich = 0
+    usetime = time.time()
+    for i in range(n):
+        min = i
+        for j in range(i + 1, n):
+            looktime += 1
+            if a[j] < a[min]:
+                min = j
+        a[i], a[min] = a[min], a[i]
+        swich += 1
+    endtime = time.time()
+    usetime = endtime - usetime
+    return looktime, swich, usetime
+
+# クイックソートについて
+def quick_sort(a):
+    def partition(a, low, high):
+        pivot = a[high]
+        i = low - 1
+        swich = 0  
+        for j in range(low, high):
+            if a[j] < pivot:
+                i += 1
+                a[i], a[j] = a[j], a[i]
+                swich += 1  
+        a[i + 1], a[high] = a[high], a[i + 1]
+        swich += 1  
+        return i + 1, swich
+
+    def quickhelp(a, low, high):
+        if low < high:
+            pi, swich = partition(a, low, high)
+            quickhelp(a, low, pi - 1)
+            quickhelp(a, pi + 1, high)
+    n = len(a)
+    looktime = 0
+    swich = 0
+    starttime = time.time()
+    quickhelp(a, 0, n - 1)
+    endtime = time.time()
+    usetime = endtime - starttime
+    looktime = (n * (n - 1)) // 2 
+    return looktime, swich, usetime
+
+# バブルソートについて
+def bubble_sort(a):
+    n = len(a)
+    looktime = 0
+    swich = 0
+    starttime = time.time()
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            looktime += 1
+            if a[j] > a[j + 1]:
+                a[j], a[j + 1] = a[j + 1], a[j]
+                swich += 1
+
+    endtime = time.time()
+    usetime = endtime - starttime
+    return looktime, swich, usetime
+
+# マージソートについて
+def merge_sort(a):
+    def mergehelp(a):
+        if len(a) > 1:
+            mid = len(a) // 2
+            left_half = a[:mid]
+            right_half = a[mid:]
+            mergehelp(left_half)
+            mergehelp(right_half)
+            i = j = k = 0
+            while i < len(left_half) and j < len(right_half):
+                if left_half[i] < right_half[j]:
+                    a[k] = left_half[i]
+                    i += 1
+                else:
+                    a[k] = right_half[j]
+                    j += 1
+                k += 1
+            while i < len(left_half):
+                a[k] = left_half[i]
+                i += 1
+                k += 1
+            while j < len(right_half):
+                a[k] = right_half[j]
+                j += 1
+                k += 1
+    starttime = time.time()
+    mergehelp(a)
+    endtime = time.time()
+    usetime = endtime - starttime
+    return 0,0,usetime
+
+def result(algorithm, data):
+        looktime, swich, usetime = algorithm(data.copy())
+        print(f"比較回数: {looktime}回, 入れ替え回数: {swich}回, 処理時間: {usetime:.6f} 秒")
+
+data = file(5)  
+print("データ件数3桁の時")
+print("単純選択ソート:")
+result(simplese, data)
+print("クイックソート:")
+result(quick_sort, data)
+print("バブルソート:")
+result(bubble_sort, data)
+print("マージソート:")
+result(merge_sort, data)

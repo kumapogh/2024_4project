@@ -1,0 +1,7 @@
+1439,Hurley          , 95,A
+ 767,Warbeck         , 76,B
+1823,Morton          , 64,C
+1919,Walter          , 54,D
+1063,Edison          , 41,D
+1511,Nicholls        , 41,D
+  87,Ryle            ,  0,D

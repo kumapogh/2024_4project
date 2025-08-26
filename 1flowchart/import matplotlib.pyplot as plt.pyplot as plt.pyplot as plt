@@ -1,0 +1,53 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import random
+
+def gauss(x_list, a=1, m=0, s=1):
+    y_list = [a * np.exp(-(x - m)**2 / (2*s**2)) for x in x_list]
+    return y_list
+
+time = 60
+samplingrate = 1000
+hz_range = np.arange(0, 40, 0.1)
+hz_weight = gauss(hz_range, a=1/1.25, m=10.5, s=1.25) # 8 - 13 Hz
+
+data_list = [np.arange(0, time, 1/samplingrate)]
+
+for hz, w in zip(hz_range, hz_weight):
+    if w == 0:
+        weight = random.random()
+    else:
+        weight = w
+        
+    fai = random.random() * 2*np.pi
+    data_list.append(weight * np.sin(2*np.pi*hz*data_list[0] + fai))
+    
+columnnames = [hz for hz in hz_range]
+columnnames.insert(0, "Time")
+
+df = pd.DataFrame(data_list).transpose()
+df = df.set_axis(columnnames, axis="columns")
+
+df["SUM"] = df.iloc[:, 1:].sum(axis=1)
+
+fig = plt.figure()
+plt.clf()
+plt.plot(df["Time"], df["SUM"])
+plt.grid()
+plt.xlabel("Time(sec)")
+plt.ylabel("Amplitude")
+plt.xlim(0, 10)
+plt.show()
+
+fft_data = np.fft.fft(df["SUM"])
+freq = np.fft.fftfreq(len(df["SUM"]), 1/samplingrate)
+Amp = abs(fft_data/(len(df["SUM"])/2))
+
+fig = plt.figure()
+plt.clf()
+plt.plot(freq[1:int(len(df["SUM"])/2)], Amp[1:int(len(df["SUM"])/2)])
+plt.xlim(0,50)
+plt.xlabel("Frequency(Hz)")
+plt.ylabel("Amplitude")
+plt.show().

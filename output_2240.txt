@@ -1,0 +1,2239 @@
+ 117,Bamber          ,100
+ 697,Cameron         ,100
+1040,Charlton        ,100
+ 520,Cumberbatch     ,100
+ 763,Disley          ,100
+ 364,Hayes           ,100
+2105,Jackman         ,100
+1862,Jibson          ,100
+1913,John            ,100
+ 489,MacArthur       ,100
+2239,MacKey          ,100
+1297,Maclaurin       ,100
+2033,McCollum        ,100
+1657,Monaghan        ,100
+1924,Perks           ,100
+ 626,Randall         ,100
+1300,Ray             ,100
+1486,Roosevelt       ,100
+ 436,Shankly         ,100
+ 544,Tait            ,100
+2034,Gibbon          ,100
+ 309,Hicky           ,100
+1637,Lindbergh       ,100
+ 986,Masters         ,100
+2096,Balfe           , 99
+ 116,Cleobury        , 99
+ 692,Crocker         , 99
+  37,Ellsberg        , 99
+ 594,Hunter          , 99
+2092,MacSweeney      , 99
+1964,McColgan        , 99
+ 247,Mort            , 99
+1301,Newman          , 99
+1979,Perry           , 99
+1005,Pitt            , 99
+1251,Somers          , 99
+ 925,Spark           , 99
+ 825,Summerhayes     , 99
+ 707,Warlock         , 99
+1687,Daisley         , 99
+1054,Deakin          , 99
+ 397,Flemyng         , 99
+1112,Gay             , 99
+ 377,Higgins         , 99
+2048,Arliss          , 98
+ 580,Awdry           , 98
+1273,Bagwell         , 98
+ 946,Campian         , 98
+ 177,Craig           , 98
+  52,Crockford       , 98
+2093,Dingley         , 98
+1758,Jenner          , 98
+1474,Morris          , 98
+ 273,Sheringham      , 98
+1563,Sweetman        , 98
+1900,Walsh           , 98
+ 106,Winters         , 98
+2165,Wymark          , 98
+ 546,FitzClarence    , 98
+1533,Lowe            , 98
+ 940,Marsh           , 98
+ 846,McCall          , 98
+ 773,McClellan       , 98
+ 257,Abbington       , 97
+1652,Donnelly        , 97
+1993,Eaton           , 97
+ 845,Gower           , 97
+ 206,Kellegher       , 97
+1855,MacFarlane      , 97
+ 220,MacManus        , 97
+1016,Pennington      , 97
+ 154,Reddington      , 97
+ 936,Salisbury       , 97
+ 751,Sheffield       , 97
+1856,Shield          , 97
+1619,Swingler        , 97
+ 742,Waterhouse      , 97
+ 869,Conaghan        , 97
+1934,Henman          , 97
+1724,Kershaw         , 97
+1620,Laird           , 97
+ 684,Langshaw        , 97
+ 254,Lindley         , 97
+1761,Clerihew        , 96
+ 926,Courtenay       , 96
+ 479,Dowland         , 96
+ 550,Angell          , 96
+2117,Fairchild       , 96
+ 768,Ankerson        , 96
+1492,Green           , 96
+ 345,Hardcastle      , 96
+1996,Hayden          , 96
+1195,Holbrooke       , 96
+1219,Joseph          , 96
+2210,Lean            , 96
+2157,Levingston      , 96
+ 762,MacAlpine       , 96
+ 506,MacKie          , 96
+ 641,McKinney        , 96
+1801,Monroe          , 96
+2238,Morahan         , 96
+ 928,Pilcher         , 96
+1610,Price           , 96
+2196,Simons          , 96
+1246,Thackeray       , 96
+1444,Wells           , 96
+ 462,Whitefield      , 96
+ 588,Widdowson       , 96
+1921,Wrigley         , 96
+1006,Collinson       , 96
+2054,Conroy          , 96
+1478,Firestone       , 96
+1069,Gascoyne        , 96
+1518,Halsall         , 96
+2131,Adinton         , 96
+1704,Caird           , 95
+1628,Cox             , 95
+ 259,Grint           , 95
+ 551,Hodgkinson      , 95
+  41,Hudson          , 95
+1439,Hurley          , 95
+2002,MacNeil         , 95
+ 959,Aston           , 95
+1491,Morrison        , 95
+1319,Pemberton       , 95
+ 985,Prowse          , 95
+ 688,Rylands         , 95
+ 698,Spendlove       , 95
+ 736,Stainton        , 95
+1720,Tiptoft         , 95
+2108,Waldron         , 95
+ 204,Wallace         , 95
+ 240,Colley          , 95
+1109,Fayrfax         , 95
+ 183,Hays            , 95
+ 328,Keys            , 95
+ 482,Lott            , 95
+ 230,McOnie          , 95
+ 341,Owen            , 95
+ 454,Bannerman       , 94
+ 315,Avory           , 94
+1081,Coverdale       , 94
+1372,Cromwell        , 94
+ 229,Dineley         , 94
+1457,Elman           , 94
+1603,Elmes           , 94
+2152,Emerson         , 94
+1912,Horgan          , 94
+ 744,Abernethy       , 94
+ 909,Leavis          , 94
+ 503,McConnell       , 94
+1878,O'Neill         , 94
+ 219,Wilmot          , 94
+ 847,Dashwood        , 94
+1965,Baldwin         , 94
+1418,Haddock         , 94
+ 475,Beanland        , 93
+ 237,Clark           , 93
+1972,Easton          , 93
+  32,Hodges          , 93
+ 841,Annakin         , 93
+1901,Leacock         , 93
+ 195,Occleve         , 93
+1470,Odum            , 93
+  99,Rackham         , 93
+ 809,Read            , 93
+1279,Applegarth      , 93
+ 287,Sharrock        , 93
+1433,Archer          , 93
+1756,Smythe          , 93
+1285,Spedding        , 93
+1117,Springfield     , 93
+1815,Welch           , 93
+1443,Wellington      , 93
+1278,Wickins         , 93
+ 493,Woodman         , 93
+1646,Coleman         , 93
+1653,Copperfield     , 93
+1123,Haddon          , 93
+1785,Hamilton        , 93
+ 827,Kirkland        , 93
+ 919,Langridge       , 93
+1022,Marlowe         , 93
+1877,Ewing           , 92
+ 826,Franklin        , 92
+ 375,Grant           , 92
+ 123,Hoskins         , 92
+1682,Irvine          , 92
+ 957,Jamieson        , 92
+ 339,Jekyll          , 92
+1463,McKane          , 92
+1223,Newell          , 92
+1957,Pointer         , 92
+ 829,Russell         , 92
+2138,Sillitoe        , 92
+1645,Tillyard        , 92
+ 951,Waddingham      , 92
+ 890,Warren          , 92
+1284,Whymper         , 92
+1058,Wishart         , 92
+ 715,Wyman           , 92
+1898,Derby           , 92
+2218,Featherstonehaugh, 92
+ 610,Ferguson        , 92
+1734,Hill            , 92
+ 785,Lily            , 92
+ 508,Grafton         , 91
+1423,Graves          , 91
+1570,Hustler         , 91
+ 392,Leary           , 91
+1766,Monckton        , 91
+1332,Mulligan        , 91
+1621,Parsons         , 91
+ 659,Quinton         , 91
+1550,Rand            , 91
+1484,Bain            , 91
+1561,Archibald       , 91
+  11,Thurgood        , 91
+1818,Weller          , 91
+ 264,Wentworth       , 91
+1255,Whiston         , 91
+1270,Winstone        , 91
+2133,Gielgud         , 91
+ 296,Hale            , 91
+ 157,Heath           , 91
+1008,Hinckley        , 91
+1896,Kidman          , 91
+ 348,Kingscote       , 91
+ 457,Knox            , 91
+1120,McSorley        , 91
+ 779,Meehan          , 91
+ 987,Drabble         , 90
+  35,Galton          , 90
+2173,Gore            , 90
+ 721,Beatty          , 90
+1210,Kensit          , 90
+1234,Lappin          , 90
+1415,Mabe            , 90
+ 912,Milward         , 90
+ 931,Nelson          , 90
+2208,Rodger          , 90
+ 126,Spenser         , 90
+1130,Stansfield      , 90
+2090,Stevenson       , 90
+1376,Tatchell        , 90
+1946,Tunstall        , 90
+1776,Worthington     , 90
+1391,FitzMaurice     , 90
+1353,Hibbert         , 90
+2067,Addy            , 90
+1167,Kersh           , 90
+  90,Maynard         , 90
+ 330,Adrian          , 89
+ 151,Hare            , 89
+1883,Hutson          , 89
+1399,Latimer         , 89
+1077,Barrie          , 89
+1406,O'Brien         , 89
+ 966,Upson           , 89
+ 638,Wilkins         , 89
+1944,Haythornthwaite , 89
+ 815,Knott           , 89
+1828,Mayer           , 89
+1015,McCann          , 89
+2197,Carson          , 89
+ 431,Dirac           , 88
+2198,Dowding         , 88
+1811,Everett         , 88
+1513,Fullerton       , 88
+ 775,Galbraith       , 88
+1206,Galvin          , 88
+1125,Hogarth         , 88
+1680,Home            , 88
+2229,Idle            , 88
+ 800,Jackson         , 88
+ 782,Carvell         , 88
+1577,O'Connell       , 88
+1864,O'Doherty       , 88
+1265,Pryce           , 88
+ 812,Reddie          , 88
+ 837,Smallwood       , 88
+ 596,Stanford        , 88
+2203,Tate            , 88
+1891,Carlyle         , 88
+ 443,Corrie          , 88
+1740,Henshall        , 88
+2101,Henwood         , 88
+1592,Kimberley       , 88
+1071,Kirk            , 88
+ 201,Avery           , 88
+1859,Littler         , 88
+1146,Livingston      , 88
+ 234,London          , 88
+1451,Lonsdale        , 88
+ 964,McAvoy          , 88
+ 307,Balliol         , 87
+ 342,Everest         , 87
+1506,Grindey         , 87
+  30,Hitchon         , 87
+2085,Horsewood       , 87
+2236,Ince            , 87
+ 864,Jagger          , 87
+ 153,McCullough      , 87
+1936,McEvoy          , 87
+2181,McKernan        , 87
+1834,O'Crowley       , 87
+ 277,Parr            , 87
+1204,Acton           , 87
+1502,Quilter         , 87
+ 102,Ramsay          , 87
+1783,Redding         , 87
+1214,Stanfield       , 87
+ 725,Tolman          , 87
+1503,Vickers         , 87
+1986,Wiat            , 87
+1716,Baxter          , 87
+ 853,Yarnold         , 87
+1188,Farber          , 87
+2003,Cayley          , 87
+1111,Godolphin       , 87
+ 855,Groves          , 87
+ 280,Heather         , 87
+2079,Knight          , 87
+1430,Lloyd           , 87
+2123,Amery           , 87
+ 225,Mauchly         , 87
+1068,Merrill         , 87
+ 743,Allan           , 86
+ 671,Eggleston       , 86
+ 740,Grennell        , 86
+ 459,Hunte           , 86
+ 374,Major           , 86
+ 496,North           , 86
+ 514,Quinlan         , 86
+1661,Runchman        , 86
+1199,Squire          , 86
+ 784,Star            , 86
+1747,Stowe           , 86
+1806,Stubbs          , 86
+2011,Took            , 86
+ 455,Walford         , 86
+1152,Davy            , 86
+1397,Delaney         , 86
+  61,Creighton       , 86
+1781,Park            , 86
+1882,Douglas         , 85
+2063,Eccles          , 85
+ 267,Eccleston       , 85
+1312,Fry             , 85
+ 415,Gale            , 85
+1670,Holst           , 85
+1082,Kennedy         , 85
+1432,McIntyre        , 85
+   2,Moloney         , 85
+ 982,Neville         , 85
+2159,O'Shea          , 85
+1941,Patterson       , 85
+2022,Poole           , 85
+ 983,Rodham          , 85
+1374,Baily           , 85
+ 617,Welsh           , 85
+ 741,Young           , 85
+1701,Hewitt          , 85
+2044,Carrol          , 85
+1830,Knowland        , 85
+1462,Longhurst       , 85
+ 792,Eklund          , 84
+1594,Howell          , 84
+ 865,Babbington      , 84
+1606,Keats           , 84
+1003,Plaisted        , 84
+1106,Power           , 84
+  22,Radford         , 84
+ 421,Seymour         , 84
+ 281,Sheen           , 84
+ 114,Sorby           , 84
+2035,Sotherton       , 84
+ 764,Washington      , 84
+2113,Webb            , 84
+1966,Chauncey        , 84
+ 422,Wills           , 84
+1213,Garson          , 84
+1369,German          , 84
+1160,Gunnell         , 84
+ 132,Melbourne       , 84
+ 162,Eldon           , 83
+ 120,Falconer        , 83
+ 904,Fraser          , 83
+ 894,Coulthard       , 83
+1149,Joplin          , 83
+1678,Law             , 83
+1786,Lawrence        , 83
+ 628,Macnaghten      , 83
+ 528,Mulcahy         , 83
+ 858,Rooney          , 83
+ 871,Sharp           , 83
+1354,Donaghy         , 83
+1422,Aitken          , 83
+ 467,Spence          , 83
+1313,Spiers          , 83
+1737,Storey          , 83
+ 221,Toye            , 83
+1335,Westbrook       , 83
+1976,Conquest        , 83
+1695,Finlay          , 83
+2232,Glover          , 83
+2222,Halliday        , 83
+ 897,Healy           , 83
+1805,Herbert         , 83
+1660,Lansbury        , 83
+ 385,Child           , 83
+ 166,Elliott         , 82
+1642,Evarts          , 82
+ 708,Hardy           , 82
+ 791,Downing         , 82
+1036,Leek            , 82
+ 666,Moorehead       , 82
+1163,O'Farrell       , 82
+ 994,O'Malley        , 82
+1971,Sharpe          , 82
+1555,Beddoe          , 82
+1774,Albright        , 82
+1825,Balbirnie       , 82
+ 426,Dalton          , 82
+  75,Dawson          , 82
+1764,Dekker          , 82
+ 676,Gatiss          , 82
+2012,Carr            , 82
+1453,Houston         , 81
+  69,Barrett         , 81
+ 202,Lawson          , 81
+1175,Maitland        , 81
+1096,McCorkell       , 81
+ 970,Bacon           , 81
+1676,Morse           , 81
+1863,Murdock         , 81
+ 631,Mycroft         , 81
+ 420,Newlands        , 81
+  16,Coward          , 81
+1220,Barry           , 81
+ 602,Rudman          , 81
+1405,Sisley          , 81
+1359,Airy            , 81
+1367,Driscoll        , 81
+ 756,Tester          , 81
+ 747,Wheatstone      , 81
+1664,Carlton         , 81
+ 131,Whitaker        , 81
+ 213,Withers         , 81
+ 331,Alford          , 81
+1209,Deacon          , 81
+ 243,Faraday         , 81
+1634,Marett          , 81
+1465,McBrain         , 81
+ 304,McMillan        , 81
+1845,Goodgame        , 80
+2148,Gordon          , 80
+ 388,Hoare           , 80
+ 582,McDonnell       , 80
+1315,Morpeth         , 80
+1186,Cannadine       , 80
+1377,Cowley          , 80
+1385,Cronnelly       , 80
+ 621,Starkey         , 80
+1623,Stoppard        , 80
+ 566,Thornley        , 80
+1113,Tiner           , 80
+ 553,Turnbull        , 80
+1793,Crowe           , 80
+ 468,Walters         , 80
+1153,Wilkie          , 80
+1584,Windsor         , 80
+ 404,Younghusband    , 80
+  59,Denny           , 80
+ 477,Gayson          , 80
+ 172,Marland         , 80
+2207,Mear            , 80
+ 233,Palin           , 80
+ 680,Ayrton          , 79
+1504,Laurenson       , 79
+1182,McCormick       , 79
+1079,McGough         , 79
+1076,Morgans         , 79
+1189,Barron          , 79
+1884,Pattenden       , 79
+1059,Quine           , 79
+1681,Sherry          , 79
+1560,Donne           , 79
+ 119,Turner          , 79
+ 689,Winterson       , 79
+1743,Audsley         , 79
+1464,Kincaid         , 79
+  86,McBein          , 79
+2234,Mercury         , 79
+1710,Greenfield      , 78
+ 646,Ashburton       , 78
+ 145,Holloway        , 78
+ 992,Houghton        , 78
+ 236,Hungate         , 78
+ 360,Kean            , 78
+1018,Lightfoot       , 78
+ 353,McGill          , 78
+1344,Mixon           , 78
+ 197,Mogridge        , 78
+2100,Moorcroft       , 78
+ 316,Mortimer        , 78
+ 530,Mundy           , 78
+1746,Pridmore        , 78
+ 748,Ryles           , 78
+ 271,Sherwood        , 78
+1685,Smart           , 78
+1268,Suckville       , 78
+2230,Tyler           , 78
+ 644,Cork            , 78
+1876,Alderson        , 78
+ 649,Gulbenkian      , 78
+ 391,Eddowes         , 77
+ 437,Hargreaves      , 77
+1039,Kenna           , 77
+ 612,MacGill         , 77
+ 856,Acker           , 77
+1045,McGonagle       , 77
+1139,Ainsworth       , 77
+1217,Adams           , 77
+1713,Rangeley        , 77
+1852,Rosseter        , 77
+ 810,Shaftesbury     , 77
+2147,Sowell          , 77
+  38,Eagle           , 77
+ 818,Sutton          , 77
+1571,Donnellon       , 77
+1585,Bateson         , 77
+1616,Attwell         , 77
+1683,Bax             , 77
+1940,Colledge        , 77
+ 563,Davies          , 77
+1932,Deamer          , 77
+ 905,Firobisher      , 77
+1945,Carnall         , 77
+  67,Arthur          , 77
+1928,McAlpine        , 77
+ 997,McLoughlin      , 77
+1663,Milne           , 77
+ 651,Fowles          , 76
+ 593,Gaitskell       , 76
+1668,Holmes          , 76
+1792,Hooker          , 76
+ 515,Layard          , 76
+  91,MacIntosh       , 76
+1164,Frost           , 76
+1253,Newhouse        , 76
+ 584,Rowlands        , 76
+1302,Dolan           , 76
+1400,Cattrall        , 76
+ 750,Summers         , 76
+1428,Golding         , 76
+ 245,Tovey           , 76
+2013,Walton          , 76
+ 767,Warbeck         , 76
+1772,Whalley         , 76
+ 838,Yorke           , 76
+ 924,Coogan          , 76
+ 857,Fleming         , 76
+ 639,Barr            , 76
+1547,Hambling        , 76
+ 859,Linehan         , 76
+1030,Ovett           , 76
+2104,Hyatt           , 75
+ 495,Irving          , 75
+  39,Jenkins         , 75
+1532,Malory          , 75
+1521,Chatwin         , 75
+1987,Paxton          , 75
+1235,Dickinson       , 75
+ 498,Rosser          , 75
+1693,Rundall         , 75
+1579,Slater          , 75
+ 130,Cardiff         , 75
+1963,Thomson         , 75
+1441,Tudor           , 75
+ 620,Woolley         , 75
+   5,Wulfstan        , 75
+2023,Fortescue       , 75
+1907,Easdale         , 75
+1607,Hamer           , 75
+1762,Langton         , 75
+2235,Croydon         , 75
+1165,Holborne        , 74
+ 516,Huttlestone     , 74
+2175,Hyland          , 74
+ 885,Barclay         , 74
+2045,Moses           , 74
+ 993,Eliot           , 74
+2126,Nordley         , 74
+1355,Pilkington      , 74
+2154,Rawle           , 74
+2082,Ryan            , 74
+2149,Simm            , 74
+  36,Sinclair        , 74
+ 356,Swan            , 74
+1771,Sykes           , 74
+1507,Cavill          , 74
+ 828,Wren            , 74
+ 635,Ferrar          , 74
+1837,Fishburne       , 74
+1512,Hallows         , 74
+ 712,Hepburn         , 74
+  72,McCafferty      , 74
+1904,Parkinson       , 74
+1656,Hoyle           , 73
+1383,Irons           , 73
+ 703,Keenan          , 73
+1580,Lemmon          , 73
+ 873,Eldred          , 73
+1100,McCormack       , 73
+1770,Munro           , 73
+2111,Mutton          , 73
+1375,Odam            , 73
+ 113,Patten          , 73
+ 395,Pelham          , 73
+1291,Adcock          , 73
+1304,Appleton        , 73
+1387,Stanley         , 73
+1260,Underhill       , 73
+1042,Walpole         , 73
+1572,Welton          , 73
+1757,Worrall         , 73
+ 717,Geraghty        , 73
+1648,Hervey          , 73
+2042,Dimbleby        , 73
+ 995,Martin          , 73
+ 972,McAllister      , 73
+  29,Hitchcock       , 72
+ 867,Agutter         , 72
+ 969,Allen           , 72
+ 794,Goulding        , 72
+ 974,Aidan           , 72
+1011,Grady           , 72
+ 156,O'Riordan       , 72
+ 322,Payne           , 72
+2144,Phillips        , 72
+1179,Philpot         , 72
+1121,Priestley       , 72
+2171,Raine           , 72
+1850,Redmayne        , 72
+1791,Snelling        , 72
+ 693,Agnew           , 72
+1446,Cleland         , 72
+1902,Talcott         , 72
+ 417,Winwood         , 72
+ 265,Wisdom          , 72
+1733,Witherspoon     , 72
+ 798,Wolsey          , 72
+1842,Earhart         , 72
+ 623,Davison         , 72
+1968,Decker          , 72
+1909,Cram            , 72
+ 971,Gascoigne       , 72
+1995,Golbourn        , 72
+ 446,Bankes          , 72
+  98,Kipling         , 72
+ 285,Arne            , 72
+1908,Lindsay         , 72
+1665,Llewellyn       , 72
+ 383,McPhail         , 72
+ 502,Dowling         , 72
+ 101,Backley         , 71
+ 921,Murdoch         , 71
+1184,Croke           , 71
+ 658,Snow            , 71
+1694,Hart            , 71
+1639,Temple          , 71
+1485,Utley           , 71
+1929,Watts           , 71
+1598,Westmoreland    , 71
+2118,Whitbread       , 71
+1031,Wilcox          , 71
+1858,Wimberley       , 71
+1524,Coleridge       , 71
+1797,Alcock          , 71
+1041,Denham          , 71
+2115,Embury          , 71
+1820,Gibney          , 71
+1541,Grosseteste     , 71
+1991,Clifford        , 71
+1447,Kingsley        , 71
+2080,Clive           , 71
+2070,Hornsby         , 71
+ 757,Lyons           , 71
+ 896,Englefield      , 70
+ 834,Ashley          , 70
+1029,Harington       , 70
+1137,Phillpotts      , 70
+1408,Roger           , 70
+1587,Dilke           , 70
+ 381,Talbot          , 70
+2049,Wayne           , 70
+2202,Dench           , 70
+1923,Gahan           , 70
+  15,Gettens         , 70
+ 241,Hall            , 70
+1760,Helson          , 70
+1178,Knightley       , 70
+2134,Crenshaw        , 70
+ 670,Lucraft         , 70
+1633,Maple           , 70
+1988,McMahon         , 70
+1526,McMaster        , 70
+  26,Pain            , 70
+ 778,Carvel          , 70
+1730,Parker          , 70
+1185,Inman           , 69
+ 472,Isaacs          , 69
+ 875,James           , 69
+1310,Allenby         , 69
+ 824,Quinn           , 69
+1349,Ramsey          , 69
+  74,Hawkins         , 69
+1522,Staples         , 69
+1712,Eveleigh        , 69
+ 776,Devlin          , 69
+1288,Wood            , 69
+1938,Beaconsfield    , 69
+1601,Day             , 69
+1525,Lamb            , 69
+2088,Lugard          , 69
+ 562,Foulds          , 69
+ 238,Lear            , 68
+ 938,Leyland         , 68
+1973,MacNeice        , 68
+ 557,Makepeace       , 68
+2122,Moore           , 68
+ 481,Morley          , 68
+1013,Ailey           , 68
+1021,O'Herlihy       , 68
+ 239,Pease           , 68
+ 363,Radcliffe       , 68
+ 465,Skeffington     , 68
+1417,Crosbie         , 68
+1553,Albarn          , 68
+1753,Bayly           , 68
+1838,Connelly        , 68
+1393,Cornes          , 68
+ 469,Fletcher        , 68
+ 186,Goldberg        , 68
+ 943,Mason           , 68
+ 194,Larkins         , 67
+ 961,Moran           , 67
+ 561,O'Hare          , 67
+1094,Hogan           , 67
+1127,Huntington      , 67
+2098,Porter          , 67
+2219,Rainwater       , 67
+1225,Cowen           , 67
+1409,Raynor          , 67
+ 129,Dickson         , 67
+ 491,Roper           , 67
+ 569,Shannon         , 67
+1505,Shelvey         , 67
+1458,Attenborough    , 67
+1413,Crook           , 67
+ 442,Wheelwright     , 67
+1289,Wyld            , 67
+2188,Cope            , 67
+1981,Huxham          , 67
+2064,Calvert         , 67
+2189,King            , 67
+ 510,Cullen          , 67
+2201,Foster          , 67
+1520,Mill            , 67
+1698,Malthus         , 66
+ 948,Astley          , 66
+ 968,O'Brian         , 66
+ 788,Fallon          , 66
+ 534,Parry           , 66
+1267,Beckham         , 66
+ 854,Prosser         , 66
+1918,Raskin          , 66
+ 914,Rawsthorne      , 66
+1114,Redfield        , 66
+2212,Rodgers         , 66
+ 217,Griffiths       , 66
+ 393,Sly             , 66
+1729,Smyth           , 66
+ 597,Stevens         , 66
+1935,Truman          , 66
+ 533,Wolf            , 66
+1726,Auden           , 66
+1812,Calder          , 66
+  43,Gage            , 66
+ 223,Cleveland       , 66
+ 251,Darwin          , 66
+1910,Ferris          , 66
+1390,Girtin          , 66
+2215,Halley          , 66
+2021,Clifton         , 66
+ 160,Gorton          , 66
+ 441,Eckert          , 66
+1650,Millar          , 66
+ 572,McGovern        , 65
+1846,McKellen        , 65
+ 138,Napier          , 65
+ 738,Northmore       , 65
+ 509,Raleigh         , 65
+ 164,Reade           , 65
+2052,Rockwell        , 65
+ 833,Cary            , 65
+ 451,Stuart          , 65
+1885,Addinsell       , 65
+1732,Aris            , 65
+1075,Watt            , 65
+ 190,Welbourn        , 65
+1208,Whittle         , 65
+1754,Wordsworth      , 65
+ 862,Dowson          , 65
+ 146,Dallimore       , 65
+ 691,Lippincott      , 65
+2114,Hyde            , 65
+1205,McCallum        , 65
+ 685,McKenzie        , 64
+1389,Moffat          , 64
+ 564,Montagu         , 64
+1823,Morton          , 64
+1092,Mott            , 64
+1552,Nichols         , 64
+1047,Clay            , 64
+1089,Haviland        , 64
+1156,Dockrill        , 64
+1035,Potts           , 64
+ 167,Roy             , 64
+ 414,Simmons         , 64
+ 378,Forgus          , 64
+ 766,Hastings        , 64
+ 105,Kearns          , 64
+1775,Stride          , 64
+ 629,Ashbery         , 64
+1688,Hand            , 64
+1614,Howells         , 64
+1604,Wilson          , 64
+1844,Audubon         , 64
+ 505,Davidson        , 64
+ 424,FitzSimons      , 64
+  88,Gainsborough    , 64
+1955,Greening        , 64
+1992,Hartshorne      , 64
+2050,Izzard          , 64
+2083,Close           , 64
+ 270,Lockhart        , 64
+1872,McPhee          , 64
+1675,Parkins         , 64
+ 975,Friel           , 63
+  33,Jarvis          , 63
+1183,Foot            , 63
+2223,Probert         , 63
+1073,Rodney          , 63
+   6,Shaughnessy     , 63
+ 253,Tippett         , 63
+2177,Towler          , 63
+ 578,Laughton        , 63
+1590,Carlin          , 63
+ 176,Gooch           , 63
+1881,Hay             , 63
+1888,Hughes          , 63
+1298,Heartfield      , 63
+1575,Heywood         , 63
+2086,Creagh          , 63
+1402,Longfellow      , 63
+1193,Minter          , 62
+1000,Elkin           , 62
+1914,Nixon           , 62
+ 759,Pugh            , 62
+1286,Doherty         , 62
+ 531,Gray            , 62
+1110,Anvil           , 62
+ 817,Turnour         , 62
+2027,Wain            , 62
+2109,Warham          , 62
+ 471,Wroughton       , 62
+  79,Conrad          , 62
+1394,Damon           , 62
+ 565,MacFarren       , 62
+   7,Haynes          , 62
+ 390,Kirkman         , 62
+ 874,Croft           , 62
+ 937,Freeman         , 61
+1654,Barker          , 61
+2007,Peace           , 61
+1132,Pearl           , 61
+1086,Quin            , 61
+  50,Eggleton        , 61
+1817,Soane           , 61
+1412,Driver          , 61
+1537,Stapleton       , 61
+  77,Carey           , 61
+ 616,Weinberger      , 61
+ 535,MacMillan       , 61
+1711,Dill            , 61
+1699,Hanks           , 61
+  21,Lester          , 61
+ 881,Coppard         , 61
+1060,Hackman         , 61
+1618,Hetherington    , 61
+1244,Marshall        , 61
+ 942,Freemantle      , 60
+1731,O'Connor        , 60
+1426,Odets           , 60
+ 915,Devonish        , 60
+ 844,Ponting         , 60
+1191,Dodgson         , 60
+ 887,Hathaway        , 60
+ 297,Ross            , 60
+1725,Russ            , 60
+ 667,Beattie         , 60
+1140,Swift           , 60
+1144,Thewlis         , 60
+1093,Gresham         , 60
+ 879,Kemp            , 60
+1967,Danvers         , 60
+2097,Davenport       , 60
+1847,Hartley         , 60
+ 737,Firth           , 60
+  82,Garrett         , 60
+2026,Hume            , 60
+ 355,McLaglen        , 60
+ 250,McNally         , 60
+ 705,Gregson         , 60
+ 836,Packer          , 60
+1067,Hoffman         , 59
+2005,Peabody         , 59
+1983,Pershing        , 59
+ 805,Eden            , 59
+ 781,Prouse          , 59
+  62,Rafferty        , 59
+1231,Leighton        , 59
+1306,Kavanagh        , 59
+ 373,McGwire         , 59
+1509,Forester        , 59
+1769,Snell           , 59
+1748,Steele          , 59
+1686,Swinnerton      , 59
+1529,Beckwith        , 59
+1004,Tyrwhitt        , 59
+  70,Washbourne      , 59
+ 427,Wimbury         , 59
+ 209,Abbey           , 59
+  64,Curry           , 59
+1749,Daines          , 59
+1595,Deighton        , 59
+1860,Greenhough      , 59
+1958,Beadon          , 59
+2170,Haley           , 59
+1949,Hutton          , 59
+   8,Bantock         , 59
+ 922,Kitchen         , 59
+2087,MacKay          , 59
+2102,Lowell          , 59
+  44,Marriott        , 59
+2186,Horwood         , 59
+1435,Parkin          , 59
+ 870,More            , 58
+ 438,Maguire         , 58
+ 529,Norton          , 58
+1293,Oates           , 58
+ 456,Perkins         , 58
+1247,McHugh          , 58
+1903,Shirley         , 58
+ 820,Spurgeon        , 58
+1323,Thorpe          , 58
+ 686,Toomey          , 58
+1692,Caxton          , 58
+ 379,Goldsmith       , 58
+1679,Westwood        , 58
+1707,Coxon           , 58
+ 889,Witty           , 58
+ 888,Flockhart       , 58
+1276,Farrington      , 58
+ 263,Giles           , 58
+ 523,Kwouk           , 58
+ 487,McCarty         , 58
+2141,O'Donoghue      , 57
+ 302,Paulson         , 57
+1263,Grierson        , 57
+ 559,Rance           , 57
+ 275,Rogers          , 57
+1424,Rooke           , 57
+ 507,Sessions        , 57
+1287,Gardener        , 57
+ 185,Skone           , 57
+ 122,Dixon           , 57
+ 401,Gardner         , 57
+ 140,Cuthbertson     , 57
+ 657,Gough           , 57
+ 605,McKenna         , 57
+  66,Flint           , 57
+ 182,Garnett         , 57
+2061,Harcourt        , 57
+2125,Hinshelwood     , 57
+1969,Keynes          , 57
+2184,Balfour         , 57
+1930,Lynton          , 57
+ 159,Massey          , 57
+ 700,Chandler        , 57
+ 774,Nipher          , 56
+ 545,Kendrick        , 56
+1556,O'Casey         , 56
+1589,O'Hara          , 56
+1295,Edkins          , 56
+1202,Mottelay        , 56
+1119,Milnes          , 56
+2066,Peyton          , 56
+ 215,Recorde         , 56
+  68,Ashcroft        , 56
+  54,Ireton          , 56
+ 181,Rowlatt         , 56
+1333,Sheehan         , 56
+1017,Spencer         , 56
+2227,Stirling        , 56
+ 327,Twigger         , 56
+ 633,Warleigh        , 56
+1767,Weymouth        , 56
+1531,Whelbourne      , 56
+1632,Attwood         , 56
+1350,Winchcombe      , 56
+2028,Grocyn          , 56
+1735,Gwilt           , 56
+2124,McFarlane       , 56
+2142,Challis         , 56
+1078,Hauksbee        , 56
+2162,Mosley          , 56
+ 494,Kellett         , 56
+ 662,Bannister       , 56
+ 428,Martinson       , 56
+1337,Pyle            , 55
+1329,Jeffreys        , 55
+1821,Redgrave        , 55
+1419,Skelding        , 55
+1358,Gardiner        , 55
+1371,Morphew         , 55
+1498,Stockwin        , 55
+ 283,Hollingworth    , 55
+1843,Thayer          , 55
+1403,Warrilow        , 55
+1718,Weinberg        , 55
+  92,Fowler          , 55
+ 598,Comyn           , 55
+1066,Ferry           , 55
+ 595,Garfield        , 55
+1027,Kneen           , 55
+1348,Mayhew          , 55
+1159,Ogg             , 55
+ 333,Oakeshott       , 54
+ 654,Pridgen         , 54
+ 350,Abbot           , 54
+1691,Uniacke         , 54
+1723,Baker           , 54
+1919,Walter          , 54
+ 980,Welty           , 54
+ 108,Nicol           , 54
+1600,Greene          , 54
+ 410,Crumb           , 54
+1784,McKeavney       , 54
+ 187,McGlynn         , 54
+ 170,Connolly        , 54
+ 135,Barlowe         , 54
+ 216,Felton          , 54
+1867,Murphy          , 54
+2168,Gaveston        , 54
+1157,Gazzard         , 54
+1596,Godwin          , 54
+ 903,Nolan           , 54
+1197,McCarroll       , 54
+1562,Pape            , 54
+1044,Clarke          , 53
+1320,Beckles         , 53
+1477,Sewell          , 53
+ 932,Sharman         , 53
+2040,Stamp           , 53
+2053,Sutcliff        , 53
+1034,Crofts          , 53
+  80,Thorne          , 53
+ 107,Golledge        , 53
+1690,Hawtrey         , 53
+1728,Whiting         , 53
+ 490,Williams        , 53
+ 112,MacDonnel       , 53
+2192,Wirgman         , 53
+1174,Clayton         , 53
+1871,Austin          , 53
+ 699,FitzSimmons     , 53
+ 755,Gibbins         , 53
+ 249,Craven          , 53
+1101,Hailey          , 53
+2068,Henry           , 53
+ 609,Hicks           , 53
+ 663,Higginbotham    , 53
+1062,Kirkby          , 53
+ 227,Laing           , 53
+ 450,Maugham         , 53
+ 730,Coulson         , 53
+ 460,Pierce          , 52
+1516,Root            , 52
+1241,Drake           , 52
+1404,Nicell          , 52
+1232,Sidney          , 52
+ 933,Case            , 52
+1581,Bates           , 52
+1010,Beckett         , 52
+1689,Lerwill         , 52
+ 804,Wilder          , 52
+ 842,McClure         , 52
+1534,Delany          , 52
+2099,Ambler          , 52
+ 235,Gunn            , 52
+ 695,Heaviside       , 52
+  45,Henfrey         , 52
+1471,Hennig          , 52
+2155,Harvey          , 52
+ 291,Humphreys       , 52
+2030,Clinton         , 52
+ 552,Cambell         , 52
+1615,Linacre         , 52
+1038,Morgan          , 52
+1813,Maywood         , 52
+ 539,Emmet           , 52
+ 822,Jacobs          , 52
+1074,O'Fallon        , 52
+1449,Pirie           , 51
+1392,Quemby          , 51
+ 412,Kerney          , 51
+1256,Lyttelton       , 51
+1429,Harrington      , 51
+ 930,Sotherland      , 51
+1055,Neely           , 51
+1386,Erskine         , 51
+ 944,Dew             , 51
+  89,Tayler          , 51
+ 967,English         , 51
+ 868,Whitehead       , 51
+ 732,Beaumont        , 51
+  84,Honeyball       , 51
+1411,Dennett         , 51
+2120,Gibson          , 51
+ 607,MacGregor       , 51
+ 585,Hamerton        , 51
+ 690,Frampton        , 51
+2185,Kimbery         , 51
+ 891,Lovecraft       , 51
+ 802,Barbour         , 51
+1023,Nash            , 51
+ 555,Merwin          , 51
+2095,Miall           , 51
+ 416,McKie           , 51
+1361,Prescott        , 50
+1229,Northam         , 50
+ 808,Minton          , 50
+ 351,Shamrock        , 50
+1243,Pelling         , 50
+1450,Spearing        , 50
+2004,Stacey          , 50
+2153,Thornton        , 50
+ 571,Whishaw         , 50
+1920,Whyte           , 50
+1674,Holyland        , 50
+ 128,Cook            , 50
+ 290,Peters          , 50
+1336,Linton          , 50
+ 521,Long            , 50
+2217,O'Duffy         , 50
+1916,Oxford          , 50
+1227,Lansdowne       , 49
+ 575,Muir            , 49
+  49,Ruskin          , 49
+ 349,Kay             , 49
+ 196,Skinner         , 49
+1651,Slocombe        , 49
+1370,Bassett         , 49
+1228,Stephens        , 49
+ 485,MacLaine        , 49
+2001,Thorn           , 49
+1880,Trevor          , 49
+1755,Furnivall       , 49
+1739,O'Keeffe        , 49
+ 627,Pascoe          , 49
+ 976,Lick            , 49
+2000,Dillon          , 49
+ 405,Hopkins         , 49
+2006,Addison         , 49
+1317,Gilthorpe       , 49
+1150,Guises          , 49
+2055,Lipset          , 49
+1196,Jordan          , 49
+2156,Ames            , 49
+1738,McCarthy        , 49
+ 306,McLennan        , 49
+1269,Oughtred        , 49
+ 929,Asquith         , 49
+1239,Royce           , 48
+ 902,Shortt          , 48
+1857,Sollars         , 48
+ 636,Coen            , 48
+1588,Hawthorne       , 48
+1548,Greenaway       , 48
+ 323,Ward            , 48
+1647,Partland        , 48
+1275,Froude          , 48
+ 406,Hanretty        , 48
+1763,Zindell         , 48
+ 543,Fearon          , 48
+ 478,Gee             , 48
+1977,Crane           , 48
+ 647,Gruber          , 48
+ 814,Lindsey         , 48
+2150,Cobbett         , 48
+ 357,McCabe          , 48
+1133,Astor           , 48
+1266,McIntosh        , 47
+1080,Barrington      , 47
+ 567,Shearsmith      , 47
+1341,Sheeran         , 47
+1583,Stoney          , 47
+1416,Leith           , 47
+  51,Wakeman         , 47
+1625,Lennon          , 47
+1787,Barks           , 47
+1816,Craine          , 47
+1203,Canning         , 47
+ 606,Daniel          , 47
+  25,Farquhar        , 47
+1819,FitzGerald      , 47
+1804,Percy           , 47
+2211,Lance           , 47
+1759,Littleton       , 47
+2075,Middleton       , 47
+1554,Mills           , 47
+1564,Stone           , 46
+ 952,Sullivan        , 46
+2014,Summerskill     , 46
+ 787,MacLeod         , 46
+  20,Tobias          , 46
+  10,Tysoe           , 46
+1960,Waddington      , 46
+ 473,Cocker          , 46
+ 111,Forsyth         , 46
+ 668,Fox             , 46
+ 753,Proudfoot       , 46
+1956,Hanson          , 46
+ 770,Copland         , 46
+ 745,Abington        , 46
+1282,FitzPatrick     , 46
+1194,Gunter          , 46
+2032,Beale           , 46
+1238,Moulding        , 46
+ 728,Clapton         , 46
+ 279,Oakes           , 46
+2062,Rutland         , 45
+  73,Barth           , 45
+ 960,Johnston        , 45
+ 246,Harrison        , 45
+1636,Temperton       , 45
+1421,Ronan           , 45
+2190,Wilkes          , 45
+1974,Wingfield       , 45
+ 713,Wise            , 45
+ 672,Wray            , 45
+1280,Wyatt           , 45
+ 821,Collins         , 45
+ 476,Arterton        , 45
+1154,Lillie          , 45
+  57,Hadley          , 45
+2018,Bale            , 45
+ 317,Alexander       , 45
+2039,Huxley          , 45
+ 878,Lannaman        , 45
+2112,Humphries       , 45
+1048,Livermore       , 45
+1212,Masefield       , 45
+1893,McAleese        , 45
+ 198,Edmonds         , 44
+ 807,Shelley         , 44
+ 439,Sterling        , 44
+2107,Sutherland      , 44
+1566,Leland          , 44
+1495,Tierney         , 44
+1528,Tillotson       , 44
+1649,Timberlake      , 44
+ 310,Elliot          , 44
+ 630,Abel            , 44
+ 973,Elgin           , 44
+1057,Jeffers         , 44
+ 758,Mitchell        , 44
+ 989,Fripp           , 44
+ 653,Desmond         , 44
+1025,Mahoney         , 44
+1466,Headley         , 44
+1989,Cleverley       , 44
+2220,Gregory         , 44
+1050,Pritchett       , 44
+ 722,Grenfell        , 44
+ 344,McMurtry        , 44
+1172,Milton          , 44
+1573,Slade           , 43
+ 679,Smith           , 43
+ 372,Lillywhite      , 43
+1517,Hawley          , 43
+ 655,Citrine         , 43
+1567,Howe            , 43
+ 155,Tucker          , 43
+ 590,Eddison         , 43
+1339,Cleese          , 43
+2043,Wolstenholme    , 43
+1833,Lawton          , 43
+1118,Aimers          , 43
+ 733,Flaherty        , 43
+ 525,Church          , 43
+1824,Gladstone       , 43
+1221,Leigh           , 43
+ 953,Gyle            , 43
+1999,McFadden        , 43
+2081,Rodford         , 43
+1489,May             , 43
+1501,McArthur        , 43
+ 694,Jonson          , 43
+2116,McWilliams      , 43
+1087,Meegan          , 43
+1840,Parkes          , 43
+1090,Follett         , 42
+1459,Stanton         , 42
+1410,Esmond          , 42
+  93,Stockdale       , 42
+1905,Such            , 42
+1655,Macauley        , 42
+1593,Ealdred         , 42
+1626,Bedford         , 42
+ 115,Webster         , 42
+ 343,Weir            , 42
+1352,Airey           , 42
+1019,Willoughby      , 42
+1717,Huddleston      , 42
+2224,Woodville       , 42
+2127,Colyer          , 42
+ 303,Doyle           , 42
+  55,Cormack         , 42
+ 258,Cushing         , 42
+ 458,Davis           , 42
+ 501,Beardsley       , 42
+1800,Hooper          , 42
+ 402,Farley          , 42
+1442,Fetherston      , 42
+ 314,Flamsteed       , 42
+1954,Avallone        , 42
+1574,Gillett         , 42
+1951,Easterbrook     , 42
+1926,Rowland         , 42
+1095,McKinnon        , 42
+1499,Kissinger       , 42
+1480,Beckley         , 42
+1948,Lynd            , 42
+ 425,McAlmont        , 42
+2167,McKeown         , 42
+1511,Nicholls        , 41
+1173,Bagley          , 41
+1215,Harmsworth      , 41
+ 464,Pincott         , 41
+ 941,Taylor          , 41
+1482,Etheridge       , 41
+1481,Sexton          , 41
+1102,Jefferson       , 41
+ 643,Churchill       , 41
+ 361,Hutchings       , 41
+ 793,Sheward         , 41
+1318,Rampling        , 41
+ 882,Perrers         , 41
+1602,Hickey          , 41
+ 319,Hopper          , 41
+ 368,Knolles         , 41
+ 295,Ravenscroft     , 41
+ 517,Levins          , 41
+1063,Edison          , 41
+1684,Starrett        , 40
+  48,Thackwell       , 40
+ 625,Tyndale         , 40
+ 604,Urquhart        , 40
+1012,Ellington       , 40
+1136,Wales           , 40
+ 963,Florey          , 40
+1338,Larner          , 40
+ 148,Nish            , 40
+1103,Woods           , 40
+ 274,Yates           , 40
+2166,Coomes          , 40
+ 318,Redford         , 40
+1790,Goode           , 40
+ 268,Gibbons         , 40
+  19,Hawkey          , 40
+ 168,Heatley         , 40
+2025,Carrington      , 40
+2047,Peakman         , 40
+2187,MacKenzie       , 40
+1425,Lonergan        , 40
+1272,Harness         , 40
+ 423,McNair          , 40
+ 780,Pickering       , 40
+2103,McVie           , 40
+2140,Page            , 40
+1014,Tragett         , 39
+ 642,Jones           , 39
+1865,Watmore         , 39
+ 910,Welles          , 39
+1765,Whitmore        , 39
+1708,Steel           , 39
+1796,Ely             , 39
+ 461,Connery         , 39
+2137,Cooke           , 39
+1939,Rust            , 39
+1773,Moncrief        , 39
+1709,Dale            , 39
+2183,Dempsey         , 39
+1899,Quirk           , 39
+ 754,Ashby           , 39
+1706,Gleeson         , 39
+1070,Dewey           , 39
+ 702,Montgomery      , 39
+ 512,Kerr            , 39
+ 118,Aldiss          , 39
+ 981,Liddell         , 39
+1098,Steuart         , 39
+1207,Lanchester      , 39
+ 706,Levine          , 39
+ 398,Lydgate         , 39
+ 574,Watkinson       , 38
+ 158,Whiteway        , 38
+1617,Pitts           , 38
+1869,Donovan         , 38
+1494,Woodward        , 38
+1327,Colbourne       , 38
+ 665,Coffey          , 38
+  96,Cutter          , 38
+ 124,Elgar           , 38
+ 949,Leyton          , 38
+1822,Gissing         , 38
+ 321,Ratcliffe       , 38
+ 660,Haines          , 38
+1557,Hilton          , 38
+ 272,Standing        , 38
+ 669,Merrigan        , 38
+ 518,Gorry           , 38
+ 269,Ogden           , 38
+ 850,Acheson         , 37
+ 433,Hatcher         , 37
+1141,Dobson          , 37
+  47,Wilby           , 37
+2172,Wilde           , 37
+1515,Mogg            , 37
+ 211,Aldridge        , 37
+1751,Rose            , 37
+ 592,Colman          , 37
+1334,Griffin         , 37
+ 452,Dennis          , 37
+1500,Finley          , 37
+1308,FitzRoy         , 37
+ 558,Arthurs         , 37
+1605,Gilmore         , 37
+1889,Plowright       , 37
+  58,Guthrie         , 37
+2072,Greenwood       , 37
+ 389,Hancock         , 37
+2016,Arkwright       , 37
+1151,Heyes           , 37
+ 622,Ireland         , 37
+ 955,Langdon         , 37
+ 760,Francis         , 37
+ 795,McBride         , 37
+ 701,Hardstaff       , 37
+2194,Simon           , 37
+1245,Joyce           , 37
+  56,Townshend       , 36
+1351,Vincent         , 36
+  95,Wilks           , 36
+1722,Willis          , 36
+1438,Addington       , 36
+ 682,MacNair         , 36
+1129,Colkett         , 36
+ 179,Ives            , 36
+ 152,Findlay         , 36
+ 813,Perceval        , 36
+  71,Maihew          , 36
+ 831,Pickles         , 36
+ 664,Humfrey         , 36
+1848,Hinchcliffe     , 36
+1445,Cavendish       , 36
+ 886,Eley            , 36
+  27,Chamberlain     , 36
+  63,McMath          , 36
+1476,Thurman         , 36
+ 719,Newmark         , 35
+1544,Allison         , 35
+1612,Carlisle        , 35
+ 337,Erikson         , 35
+2056,Wyler           , 35
+2074,Levin           , 35
+ 917,Danes           , 35
+1937,Barlow          , 35
+1892,Moseley         , 35
+2046,Garnet          , 35
+1719,George          , 35
+1942,Tallis          , 35
+ 577,Hacker          , 35
+ 632,Hales           , 35
+1252,Graham          , 35
+ 640,Aynsley         , 35
+2204,Crewe           , 35
+2214,Paice           , 35
+ 950,Paley           , 35
+1543,Haworth         , 34
+ 419,Spooner         , 34
+1043,Neal            , 34
+ 600,Pinter          , 34
+1641,Rumbelow        , 34
+ 366,Algren          , 34
+ 445,Wodehouse       , 34
+1576,Worsley         , 34
+1832,Hartfield       , 34
+ 913,Moroney         , 34
+1249,Garber          , 34
+ 977,Trewavas        , 34
+1854,Paterson        , 34
+1841,Titchmarsh      , 34
+ 835,Ace             , 34
+1894,Solow           , 34
+1947,Monteith        , 34
+ 125,Hammond         , 34
+1970,Hession         , 34
+1299,Kingston        , 34
+2036,Moon            , 34
+1366,Cassells        , 34
+1099,Livingstone     , 34
+1887,Lyly            , 34
+2178,Emery           , 34
+2221,Ball            , 34
+1020,Wibberley       , 33
+1508,Etherington     , 33
+1727,Tennyson        , 33
+1831,Callaghan       , 33
+1461,O'Callaghan     , 33
+ 962,Pendry          , 33
+1609,Gimson          , 33
+ 293,Guest           , 33
+2038,Crawford        , 33
+1978,Sterne          , 33
+2024,Keighley        , 33
+ 466,Hinkley         , 33
+1906,Lynch           , 33
+ 326,Hydon           , 33
+ 634,Hiscock         , 33
+2193,Stiles          , 33
+1384,McCoy           , 33
+ 522,Waylett         , 32
+1613,Elphinstone     , 32
+  17,Galway          , 32
+ 816,McElwee         , 32
+1702,Keeley          , 32
+ 178,Jenks           , 32
+1283,Oakwood         , 32
+ 860,Anthony         , 32
+1827,Caldwell        , 32
+1630,Garland         , 32
+2129,Johns           , 32
+ 749,Guyler          , 32
+1248,Grey            , 32
+  24,Aveling         , 32
+1032,Lake            , 32
+ 556,Camden          , 32
+1166,Lythgoe         , 32
+  12,Galloway        , 32
+2164,Mellers         , 32
+ 305,Arnett          , 31
+ 999,Hatton          , 31
+ 210,Coles           , 31
+1803,Crowley         , 31
+ 320,Farar           , 31
+1192,Farnaby         , 31
+ 739,Beck            , 31
+ 990,Hatson          , 31
+1931,Noakes          , 31
+2010,Tarrant         , 31
+ 300,Tasker          , 31
+ 746,Webber          , 31
+1177,Norrish         , 31
+2158,Cheshire        , 31
+2180,Steward         , 31
+1049,Moss            , 31
+ 615,McGregor        , 31
+1744,Wetton          , 30
+1672,Beecham         , 30
+1671,Runciman        , 30
+ 175,Wolfenden       , 30
+ 354,Pitman          , 30
+1259,Ellis           , 30
+ 877,Grenville       , 30
+1222,Considine       , 30
+  13,Curtis          , 30
+2174,d'Arcy          , 30
+ 161,Daltrey         , 30
+1536,Baines          , 30
+1810,Thatcher        , 30
+1148,Dickens         , 30
+1997,Wade            , 30
+2020,Hegarty         , 30
+ 312,Entwistle       , 30
+ 403,Slattery        , 30
+ 332,Macy            , 30
+1839,Marlborough     , 30
+ 276,Barnes          , 30
+ 783,Johnson         , 30
+ 920,Lecky           , 30
+1799,Matheson        , 30
+1360,McLaughlin      , 30
+1330,Northrop        , 30
+1271,Rowntree        , 30
+2200,Wilkinson       , 29
+1879,Ransome         , 29
+ 714,Colquhoun       , 29
+ 205,Currie          , 29
+1861,Alcott          , 29
+1002,Lee             , 29
+ 127,Aldrich         , 29
+ 786,Chapman         , 29
+ 839,Guiness         , 29
+1170,Kennett         , 29
+  53,Hodge           , 29
+ 998,Henrit          , 29
+ 500,Thorndike       , 29
+1608,Nicks           , 29
+ 570,Cripps          , 29
+1382,Lambert         , 29
+ 979,Norman          , 29
+1138,Whistler        , 29
+ 645,Harding         , 29
+1305,Salinger        , 29
+1162,McLeod          , 29
+1479,Sexby           , 29
+1836,McRae           , 29
+ 313,Melville        , 29
+ 799,Asher           , 29
+1158,Pottinger       , 29
+ 463,Toynbee         , 28
+1943,Collett         , 28
+ 958,Edge            , 28
+1742,Mansfield       , 28
+1586,Attlee          , 28
+ 803,Wheeldon        , 28
+1873,Egan            , 28
+1026,Wellesley       , 28
+ 484,Solley          , 28
+ 536,Flecker         , 28
+  40,Edmundson       , 28
+ 261,Dowdeswell      , 28
+1345,Holdsworth      , 28
+ 704,Rutherford      , 28
+1667,Forster         , 28
+1599,Nicholson       , 28
+1414,Heasman         , 28
+1264,Heston          , 28
+2069,Armstrong       , 28
+ 453,Humphry         , 28
+1147,McGuigan        , 28
+ 231,Chesterton      , 28
+1582,Carleton        , 28
+ 861,McDonald        , 28
+ 601,McTeer          , 28
+ 440,Shakespeare     , 27
+2161,Condren         , 27
+   4,O'Leary         , 27
+1083,Camps           , 27
+ 174,Goldsworthy     , 27
+1631,Battle          , 27
+1051,Peel            , 27
+2151,Fortune         , 27
+ 540,Knowles         , 27
+ 289,Leakey          , 27
+ 133,O'Higgins       , 27
+ 399,Ellwood         , 27
+ 723,Ingleby         , 27
+ 872,Townsend        , 27
+2237,Simpson         , 27
+1274,Oxley           , 27
+1347,McCorquodale    , 27
+ 710,Clackson        , 26
+ 991,Corbett         , 26
+  18,Cornell         , 26
+ 613,Daley           , 26
+ 352,Ingram          , 26
+1105,Hawken          , 26
+1261,Crompton        , 26
+1659,Evatt           , 26
+1559,Guinness        , 26
+1169,MacKintosh      , 26
+ 735,Shaman          , 26
+ 619,Lilienthal      , 26
+1523,Howard          , 26
+2077,Lanfranc        , 26
+ 369,Abbott          , 26
+1565,McKnight        , 26
+ 652,Goss            , 26
+ 394,Carter          , 26
+1033,Weight          , 26
+1395,Salk            , 26
+ 382,Cruikshank      , 26
+1454,Cole            , 25
+1961,Coughlin        , 25
+ 801,Campbell        , 25
+ 978,Hargin          , 25
+ 923,Lewis           , 25
+ 581,MacBride        , 25
+1736,Jenkinson       , 25
+2106,Haggard         , 25
+ 916,Becket          , 25
+ 308,Hainsby         , 25
+ 911,Winslet         , 25
+1007,Casey           , 25
+1321,Harper          , 25
+ 527,Uttley          , 25
+ 499,Phoenix         , 25
+1381,Sinfield        , 25
+2130,Myler           , 25
+ 934,Maddrell        , 25
+ 731,Inglis          , 25
+ 449,Marven          , 25
+ 984,McCartney       , 25
+ 618,Neeson          , 25
+ 371,Tennant         , 25
+1741,Eames           , 25
+1497,Willcocks       , 25
+1535,Reber           , 24
+ 262,Curzon          , 24
+1808,Huffington      , 24
+ 709,Fiennes         , 24
+1294,Dransfield      , 24
+1362,Baskerville     , 24
+ 214,Ennis           , 24
+ 568,McKeone         , 24
+ 248,Hampton         , 24
+2225,Heathcoat       , 24
+1365,Bailey          , 24
+1254,Landon          , 24
+1180,Maxwell         , 24
+2209,Kelly           , 24
+1401,Wesley          , 24
+1064,McLagan         , 24
+1126,McPherson       , 24
+1984,Arkin           , 24
+1780,McClintock      , 23
+1886,Stephenson      , 23
+ 648,Wilmington      , 23
+1328,Ellison         , 23
+1431,Allingham       , 23
+2009,Callow          , 23
+ 678,Giddens         , 23
+ 232,Wright          , 23
+ 163,Charnley        , 23
+1635,Hampson         , 23
+2041,Cheers          , 23
+1697,Aubrey          , 23
+1128,Holbein         , 23
+ 819,Ashfield        , 23
+ 884,Ackerson        , 23
+1591,Cooper          , 23
+1242,Adamson         , 23
+   3,Amis            , 23
+1624,McLuhan         , 23
+1629,Walkinshaw      , 23
+ 548,Munroe          , 23
+ 147,Ballard         , 23
+1325,Woolf           , 23
+ 134,Effinger        , 22
+1952,Hartnett        , 22
+1024,Stepney         , 22
+ 772,McKay           , 22
+1142,Hayward         , 22
+1379,Hawkyard        , 22
+ 637,England         , 22
+ 811,Haswell         , 22
+  23,Chad            , 22
+1745,Greenhalgh      , 22
+ 292,Mack            , 22
+ 830,Shepherd        , 22
+1539,Love            , 22
+ 447,Banks           , 22
+ 796,Barraclough     , 22
+ 956,Friday          , 22
+1326,Harries         , 22
+2206,Potter          , 22
+1715,York            , 22
+ 650,O'Byrne         , 21
+1262,Weston          , 21
+ 583,Rapp            , 21
+1388,Storace         , 21
+ 939,Gwyn            , 21
+1448,Haywood         , 21
+1779,Wharton         , 21
+1540,Cunningham      , 21
+ 228,Sterry          , 21
+1145,Beckford        , 21
+2084,Wakeling        , 21
+1314,Appleyard       , 21
+ 734,MacKinlay       , 21
+1545,O'Grady         , 21
+ 790,McNulty         , 21
+  65,Meredith        , 21
+1814,Embrey          , 20
+ 988,Campion         , 20
+1917,Crammer         , 20
+1922,Rabkin          , 20
+1309,Gilmour         , 20
+1475,Card            , 20
+1795,Isherwood       , 20
+ 324,MacNeill        , 20
+1340,Fugler          , 20
+ 294,Lipton          , 20
+2128,Sabine          , 20
+2076,Rae             , 20
+1380,Cattermole      , 20
+ 137,Adkins          , 20
+2121,Mayweather      , 20
+1496,Eagleton        , 20
+2213,Gorham          , 20
+1849,Almond          , 20
+ 729,Penford         , 20
+1875,Oudney          , 20
+ 370,Murt            , 19
+1211,Tanner          , 19
+  31,Godrich         , 19
+ 549,Hitchens        , 19
+1124,Hensley         , 19
+2176,Hyndman         , 19
+ 432,Dowell          , 19
+1911,O'Reilly        , 19
+2226,McKerrow        , 19
+ 677,Haslam          , 19
+1131,Tillett         , 18
+ 346,Wrenn           , 18
+ 624,Sheppard        , 18
+ 497,Gosling         , 18
+ 365,Banfield        , 18
+1427,Seton           , 18
+2078,Farnham         , 18
+1782,Traylor         , 18
+1807,Hutchinson      , 18
+1065,Baring          , 18
+ 504,McGinnis        , 18
+ 720,Hasluck         , 18
+ 483,Stephen         , 18
+1190,Jeffrey         , 18
+ 996,Fielding        , 18
+1290,Preece          , 17
+1028,O'Shaughnessy   , 17
+ 532,Morrissey       , 17
+ 376,Draper          , 17
+1638,Howitt          , 17
+1546,Evans           , 17
+ 409,Andrews         , 17
+1469,Wickham         , 17
+1527,Cowper          , 17
+1721,Goodall         , 17
+1134,Harlow          , 17
+1794,Edwards         , 17
+1640,Pepper          , 17
+2059,Beamont         , 17
+ 143,Laine           , 17
+2060,Armitage        , 17
+ 299,Ratledge        , 17
+1483,MacLean         , 17
+ 777,Whitman         , 17
+ 965,Jarman          , 17
+2195,Fairclough      , 17
+2145,Saintsbury      , 17
+ 359,Grewcock        , 17
+1250,McLaren         , 17
+2231,Fairfield       , 17
+1378,Clegg           , 16
+ 474,Childs          , 16
+1201,Inns            , 16
+ 191,Colet           , 16
+1116,Acland          , 16
+ 661,Spring          , 16
+ 311,Joule           , 16
+ 340,Kissack         , 16
+2139,Chenoweth       , 16
+ 121,Langford        , 16
+ 603,Hubbard         , 16
+ 866,Farnon          , 16
+ 711,Coulfield       , 16
+2199,Wedgwood        , 16
+1316,Marquat         , 16
+1357,Matthews        , 16
+  34,Shoemaker       , 15
+1037,Wheeler         , 15
+ 358,Whight          , 15
+ 212,Farrell         , 15
+ 673,Sheridan        , 15
+2143,Faulcon         , 15
+1750,Keen            , 15
+1487,McNamara        , 15
+ 367,Chichester      , 15
+ 547,Yardley         , 15
+ 537,Steiner         , 15
+ 103,Palmer          , 15
+1456,Wall            , 14
+1915,Hull            , 14
+ 444,Ager            , 14
+1473,Preston         , 14
+ 761,Herschel        , 14
+1789,MacDonald       , 14
+ 169,Kington         , 14
+ 883,Ahearne         , 14
+1053,Lilye           , 14
+1705,Allston         , 14
+2089,Clough          , 14
+ 554,Beaton          , 14
+ 448,Washburn        , 14
+ 681,Conlon          , 14
+ 173,Penry           , 14
+1230,Holden          , 14
+1236,MacLaughlin     , 14
+ 188,Cartwright      , 14
+1324,Atkinson        , 14
+1440,Holles          , 14
+1434,Moffett         , 14
+2160,Raikes          , 14
+ 200,Westwick        , 14
+ 189,Postlethwaite   , 14
+1056,Johnstone       , 14
+1467,Griffith        , 13
+ 180,Moodie          , 13
+ 899,Hammerton       , 13
+1870,Hopkinson       , 13
+1181,Covington       , 13
+1187,Stynes          , 13
+1233,Cashman         , 13
+ 687,Phelan          , 13
+ 418,Lumley          , 13
+1198,Legge           , 13
+2146,Hinsley         , 13
+2228,Tye             , 13
+ 141,Cockburn        , 13
+ 413,McLean          , 13
+1643,Chaucer         , 13
+1666,Allport         , 13
+1143,Ogburn          , 13
+ 918,O'Kelly         , 13
+1097,Owens           , 13
+ 207,Pearson         , 13
+1927,Thompson        , 12
+1224,Cleaves         , 12
+ 184,Barnard         , 12
+ 727,Abercrombie     , 12
+ 362,McDougall       , 12
+ 945,Ackroyd         , 12
+1307,Darling         , 12
+ 256,Wilberforce     , 12
+2119,Bean            , 12
+1107,Bagehot         , 12
+2179,Shaw            , 12
+1396,Walthew         , 12
+1980,Whelan          , 12
+ 806,Haldane         , 12
+ 947,Street          , 12
+ 492,Hansson         , 12
+ 823,Symes           , 12
+ 656,Plant           , 12
+ 752,Downer          , 12
+ 718,Tawney          , 12
+1104,Pace            , 12
+1677,Underwood       , 12
+ 430,McElhiney       , 12
+1851,Cayford         , 12
+1953,Halmshaw        , 12
+ 586,Musson          , 11
+1510,Mallett         , 11
+  81,Aldis           , 11
+ 832,Kilner          , 11
+ 895,Williamson      , 11
+ 852,Demery          , 11
+ 335,Wyeth           , 11
+2057,Thornhill       , 11
+1994,Lindgren        , 11
+1218,Loweth          , 11
+1460,Wheatley        , 11
+1696,Cornwell        , 11
+1258,Maudslay        , 11
+  60,Philips         , 11
+1959,Hack            , 11
+  14,Hazell          , 11
+2240,Haskell         , 11
+2169,Whiteley        , 11
+1962,Connor          , 11
+ 526,Weeden          , 11
+1237,Hurd            , 11
+1700,Rush            , 11
+ 338,Kearney         , 11
+1296,Bartlett        , 11
+2205,Poswell         , 11
+ 407,Soper           , 11
+1549,Greenbury       , 11
+ 716,Inge            , 11
+2233,O'Sullivan      , 10
+1200,Cowan           , 10
+ 851,Ashton          , 10
+1662,Collier         , 10
+ 144,Fisher          , 10
+2029,Hornby          , 10
+2091,Primrose        , 10
+1168,Shearer         , 10
+1343,Barton          , 10
+1897,Thokell         , 10
+1472,Etchison        , 10
+ 266,Gilmartin       , 10
+1437,Hazeldine       , 10
+1356,Donaldson       , 10
+1322,Lytton          , 10
+ 411,Crystal         , 10
+  85,West            , 10
+1420,Fuller          , 10
+1085,McPartland      , 10
+ 278,Lilburne        , 10
+ 298,McQueen         , 10
+1829,O'List          , 10
+1122,Nettleship      , 10
+ 429,Crewes          , 10
+2216,Taverner        , 10
+1768,Coney           , 10
+1569,Warriner        , 10
+ 907,Galsworthy      ,  9
+1868,McKennitt       ,  9
+ 789,Downes          ,  9
+ 224,Goodwin         ,  9
+2019,Carrack         ,  9
+1777,Lessing         ,  9
+   1,Lister          ,  9
+ 541,Enfield         ,  9
+ 769,Norris          ,  9
+1798,Goodfellow      ,  9
+1703,Travers         ,  9
+ 171,Quaife          ,  9
+1826,Rankin          ,  9
+ 674,Diskin          ,  9
+1088,Vaughan         ,  9
+ 336,Banes           ,  9
+  94,Noel            ,  9
+1568,Miller          ,  9
+ 386,Fennelly        ,  9
+1490,Crossley        ,  9
+1171,Rowling         ,  9
+1514,Stapledon       ,  9
+1644,Whitford        ,  9
+1342,Lascelles       ,  8
+ 848,Mooney          ,  8
+ 329,Wilbye          ,  8
+ 288,Hulme           ,  8
+1072,Lipson          ,  8
+ 199,Sloan           ,  8
+ 109,Corrigan        ,  8
+2132,White           ,  8
+1519,O'Flaherty      ,  8
+1493,MacMahon        ,  8
+  78,Leslie          ,  8
+1950,Leahy           ,  8
+2135,Herriot         ,  8
+ 906,O'Toole         ,  8
+ 384,Wingate         ,  8
+ 591,Chambers        ,  8
+ 696,Babbage         ,  8
+1551,Malthouse       ,  8
+ 538,Lane            ,  8
+  97,Hunt            ,  8
+ 683,Goddard         ,  8
+1788,McKee           ,  8
+ 400,McCullagh       ,  7
+ 218,McCullin        ,  7
+2094,Coates          ,  7
+1622,Fleetwood       ,  7
+2037,O'Donnell       ,  7
+ 435,Sweeney         ,  7
+ 908,Florence        ,  7
+1398,Sumner          ,  7
+ 576,Telford         ,  7
+1853,Theiler         ,  7
+ 519,Christie        ,  7
+1331,Purcell         ,  7
+2136,Pearce          ,  7
+  83,Winter          ,  7
+ 542,Cartpenter      ,  7
+ 139,Walker          ,  7
+ 849,Stewart         ,  7
+ 843,Gallagher       ,  7
+ 150,Pollock         ,  7
+1890,Cornish         ,  7
+1455,Lucas           ,  6
+1303,Raymond         ,  6
+2008,Aldington       ,  6
+ 301,Gillings        ,  6
+1052,Edgeworth       ,  6
+  46,Stokes          ,  6
+ 614,Tenniel         ,  6
+2058,Gibbs           ,  6
+ 892,Logan           ,  6
+2073,Prime           ,  6
+ 104,Gwatkin         ,  6
+1933,Shoebridge      ,  6
+ 488,Mogan           ,  6
+ 260,Halford         ,  6
+ 954,Wainwright      ,  6
+1363,Drewett         ,  6
+1611,Widdrington     ,  6
+ 765,Glen            ,  6
+  76,Batchelor       ,  6
+1346,Housman         ,  6
+2051,Wight           ,  6
+1292,Judge           ,  6
+ 927,Figgis          ,  6
+1658,Nicolson        ,  6
+1752,McDowell        ,  6
+1835,Soddy           ,  5
+1281,Muirhead        ,  5
+1558,Moleyns         ,  5
+1975,Carnegie        ,  5
+ 434,Tomlins         ,  5
+1452,Royle           ,  5
+2071,Rathbone        ,  5
+ 255,Murray          ,  5
+ 193,Dean            ,  5
+ 511,Fee             ,  5
+1468,Quigley         ,  5
+ 408,Barnett         ,  5
+ 222,Elton           ,  5
+ 226,Eggar           ,  5
+1673,Elwes           ,  5
+ 480,Kemble          ,  5
+2110,Soule           ,  5
+1895,Marr            ,  5
+ 587,Ascham          ,  5
+1530,Rootham         ,  5
+1226,Appleby         ,  4
+ 286,Leach           ,  4
+ 100,Kendall         ,  4
+ 589,Thomas          ,  4
+  28,Gutteridge      ,  4
+ 282,Gillan          ,  4
+ 724,Derbyshire      ,  4
+1240,Muggeridge      ,  4
+1115,Morlan          ,  4
+ 165,Forbes          ,  4
+1311,Ford            ,  4
+ 387,Arnold          ,  4
+1866,Traynor         ,  4
+1084,Randolph        ,  4
+ 396,Connick         ,  4
+1597,Morrow          ,  4
+ 726,MacIntyre       ,  4
+1091,Dexter          ,  4
+1364,Newton          ,  4
+1802,Edwin           ,  4
+1257,Rake            ,  4
+1135,Speake          ,  3
+1874,O'Meara         ,  3
+1046,Cousins         ,  3
+1627,Prichard        ,  3
+2163,Amherst         ,  3
+ 900,Watson          ,  3
+ 901,Court           ,  3
+ 876,Henryson        ,  3
+ 470,Eddington       ,  3
+1009,Dewar           ,  3
+ 325,Crowther        ,  3
+   9,Rothery         ,  3
+2017,Musgrave        ,  3
+1368,Vernon          ,  3
+  42,Whittington     ,  3
+ 110,Lawes           ,  2
+1216,Kent            ,  2
+1542,Baird           ,  2
+ 380,Anderson        ,  2
+1407,Markham         ,  2
+ 579,Codd            ,  2
+1669,Partridge       ,  2
+1985,Pester          ,  2
+2015,Cecil           ,  2
+1488,Cowling         ,  2
+1155,Michael         ,  2
+ 608,Phillipson      ,  2
+1990,Field           ,  2
+1277,Gaster          ,  2
+1778,Edney           ,  2
+ 898,Luce            ,  2
+ 840,Paston          ,  2
+1925,Dowdall         ,  2
+1436,Harris          ,  2
+2191,Carroll         ,  2
+ 863,Tohill          ,  2
+ 893,Pargeter        ,  2
+ 334,Household       ,  2
+ 486,McKintosh       ,  2
+2065,Grove           ,  1
+ 244,Granville       ,  1
+ 208,Waugh           ,  1
+ 136,Ruth            ,  1
+1809,Plender         ,  1
+ 880,Willmott        ,  1
+2031,Peake           ,  1
+ 347,O'Rourke        ,  1
+ 513,Chipchase       ,  1
+ 252,Norfolk         ,  1
+1998,Winston         ,  1
+1538,Crowdey         ,  1
+ 935,Powell          ,  1
+ 797,Lipscomb        ,  1
+1108,Warner          ,  1
+ 560,Henderson       ,  1
+ 573,Gawley          ,  1
+ 242,Upshaw          ,  1
+1373,Press           ,  1
+1176,Lord            ,  1
+1714,Syers           ,  0
+1982,Offley          ,  0
+ 675,Macaulay        ,  0
+1001,Comerford       ,  0
+  87,Ryle            ,  0
+ 284,Adlam           ,  0
+ 192,Peirce          ,  0
+ 771,Mayfield        ,  0
+1061,Witting         ,  0
+ 203,Waters          ,  0
+1578,McCulloch       ,  0
+1161,Atkins          ,  0
+ 149,Montague        ,  0
+ 524,Cartlidge       ,  0
+ 599,Dane            ,  0
+2182,Glasspool       ,  0
+ 611,Finch           ,  0

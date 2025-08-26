@@ -1,0 +1,88 @@
+Welcome to the Department of Mathematics, Physics, Electrical Engineering and Computer Science
+
+Our department is composed of the four educational programs of (1) Mathematical Sciences, (2) Physics and Applied Physics, (3) Electrical and Computer Engineering and (4) Computer Science and Engineering. We seek students who strive for new and creative science and technology. All our programs are founded on a deep understanding of the basic principles of mathematics and physics. Our working environment is international, open to new ideas and cultures, and non-discriminative.
+
+Education Programs
+Mathematical Sciences Program
+
+Students systematically learn the mathematical sciences, acquiring knowledge of the mathematical principles and structures underlying the sciences based on modern mathematics. They also study across a wide range such as the basic theory and mathematical physics in the information sciences, applications to computer graphics, computer simulation, audio-visual information processing, etc., and utilization of information media. Further, the program trains human resources who focus their attention on the fundamental principles pertaining to various problems in light of the methods of modern mathematics and the mechanisms of human cognition, thereby capable of accurately performing logical judgment and mathematical processing.
+
+Physics and Applied Physics Program
+
+Physics underlies all new technologies and scientific innovations. Our curriculum is founded on both classical and quantum mechanics as well as statistical mechanics. Advanced undergraduate students choose their field of specialization from: astrophysics, elementary particles, solid state physics, non-linear mechanics, plasma physics, development of new materials, nano-science, and photonics, quantum information, superfine structure, and superconductivity and magnetism.
+
+Electrical and Computer Engineering Program
+
+Students study a wide range of fields such as electricity, electronics, telecommunications and information in an integrated manner, from basic fields related to electrical circuit, electromagnetism, electronics, telecommunications and information, to applied fields related to hardware such as electrical energy, control and systems, electronic devices, integrated electronics, electronic circuits, communication transmission systems, information and communication, advanced computer and information systems, plus software running them. The program fosters human resources who can play an active part in the field of electronic information engineering in the society with flexible mindset and capability to handle various innovations.
+
+Computer Science and Engineering Program
+
+The curriculum of the Computer Science and Engineering Program covers a wide range of academic subjects including software engineering and programming language, database engineering, audio-visual data processing, natural language processing, multimedia information processing, linguistic theory, artificial intelligence, cognitive science, computer networking, information security, and software system development and management. The program is uniquely designed so that students can both acquire theoretical and analytical skills and develop and refine these skills in a variety of practical contexts, through a combination of lectures, seminars and lab classes. The program strives to produce graduates with strong fundamental knowledge and skills in engineering, information and computer science and software systems, who are capable of becoming leaders in a wide range of information technology fields, which serve as the foundation of society and industry.
+
+Laboratories:
+Mathematical Sciences Program
+
+    Topology and Mathematical logic Laboratory
+    Algebra Laboratory
+    Analytics Laboratory
+    Geometry Laboratory
+    Topological Graph Theory Laboratory
+    Applied Mathematics Laboratory
+    Computational Mechanics Laboratory
+    Image and Mathematical Information Processing Laboratory
+    Information Society System Laboratory
+
+Physics and Applied Physics Program
+
+    Multiple Extreme Conditions Laboratory
+    Superconductive Microdevice Laboratory
+    High Magnetic Field Laboratory
+    Plasma and Nonlinear Physics Laboratory
+    Quantum Properties Simulation Laboratory
+    Superconductivity and Magnetism Laboratory
+    Nano-physics Laboratory
+    Surface Physics Laboratory
+    Quantum Information Physics Laboratory
+    Research laboratory for precision spectroscopy and quantum measurement
+    Advanced Optical Science Laboratory
+    Material Properties Laboratory
+    Nano-physical Properties Theory Laboratory
+    Solid State and Molecular Theory Group
+    Theoretical Condensed Matter Physics Laboratory
+    Cosmic Ray Laboratory
+    Astroparticle Physics Laboratory
+
+Electrical and Computer Engineering Program
+
+    Power Electronics and Robotics Laboratory
+    Electric Power System Laboratory
+    System Control Laboratory
+    Motion Control Laboratory
+    Nano-technology Laboratory
+    Silicon Device Laboratory
+    Integrated Electronics Laboratory
+    Semiconductor Photonics Engineering Laboratory
+    Magnetics Laboratory
+    Integrated Nanodevice Laboratory
+    Superconductivity Electronics Laboratory
+    Integrated Photonics Laboratory
+    Analog Integrated Circuit Laboratory
+    Electromagnetic Wave Laboratory
+    Nanostructure Photonics Laboratory
+    Microwave Circuit Laboratory
+    Digital Technology Laboratory
+    Telecommunications, Medical Information and Control Communication Laboratory
+    Green Communication Laboratory
+    Intelligent System Laboratory
+    Infrastructure Software Laboratory
+    Smart System and Human Information Engineering Laboratory
+    Biomedical Engineering System Laboratory
+
+Computer Science and Engineering Program
+
+    Advanced Database Laboratory
+    Natural Language Processing Laboratory
+    Information and Physical Security Laboratory
+    Intelligent Informatics Laboratory
+    Linguistic Information Processing Laboratory
+    Theoretical Linguistics Laboratory

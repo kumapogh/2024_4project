@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-06-24T15:43:57.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pQgsg-cwzjdVaK88d0vD" version="24.6.2" type="onedrive">
+  <diagram name="ページ1" id="tBsDbyhqc14Bj6tZ-HFH">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TO5YxubZ-xdrTfeEKAxI-1" target="TO5YxubZ-xdrTfeEKAxI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-1" value="定義class Player&lt;div&gt;開始&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TO5YxubZ-xdrTfeEKAxI-2" target="TO5YxubZ-xdrTfeEKAxI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-2" value="def __init__(self, number, name, profile)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TO5YxubZ-xdrTfeEKAxI-3" target="TO5YxubZ-xdrTfeEKAxI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-3" value="self.number = number" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TO5YxubZ-xdrTfeEKAxI-4" target="TO5YxubZ-xdrTfeEKAxI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-4" value="self.profile = profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="TO5YxubZ-xdrTfeEKAxI-5" target="TO5YxubZ-xdrTfeEKAxI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-5" value="self.name = name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TO5YxubZ-xdrTfeEKAxI-6" value="終了" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
