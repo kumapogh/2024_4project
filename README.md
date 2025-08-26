@@ -1,2 +1,2 @@
 # 2024_4project
-for proctice,  2nd grade of university 
+for practice,  2nd grade of university 
