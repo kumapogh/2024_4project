@@ -1,4 +1,8 @@
 # 2024_4project
+for practice, from 1st grade of un0iversity
+/1st-spring
+/2nd-spring
 
-for practice,  2nd grade of university 
+there are easy and short codes, but important for sure.
+
 
