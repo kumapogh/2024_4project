@@ -1,5 +1,5 @@
 # past class of university
-for practice, from university
+codes for practice, from university
 
 /2nd-spring
 
